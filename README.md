@@ -16,7 +16,7 @@ To use this webpage you can start by selecting a section of the main article. Ea
 ## Credits
 
 Pulled README from Pre-Work-Study-Guide in my own repositories.
-Used activity code from gitlab repository to reference proper uses of <article> <main> and <section> so that each <div> could be properly named. Also used the same git lab repository codes to look at proper spacing in lines so that the code would be easier to read and understand for the next person to come and use the code.
+Used activity code from gitlab repository to reference proper uses of article, main, and section so that each div could be properly named. Also used the same git lab repository codes to look at proper spacing in lines so that the code would be easier to read and understand for the next person to come and use the code.
 
 ## License
 
