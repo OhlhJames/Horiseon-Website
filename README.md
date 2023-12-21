@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a prework study guide that I as a bootcamp student can return to it whenever I please.I can use it to help me study and use it as a building block so that once I learn something new I can add to it  and keep building off of it and using it to help me better understand what I am learning. I learned how to use HTML, CSS, and JavaScript in a cooperative manner to set up a simple web page.
+This is a business reference page that anyone can use to help understand why to improve their website with Search Engine Optamization, Online Reputation Management, and Social Media Marketing. Anyone can use it to help understand the benefits of implementing each of these ideas and will also offer. This webpage also offers basic explanations of each of these conepts so that the user can more readily understand what they are looking for in implementation.
 
 ## Installation
 
@@ -10,12 +10,13 @@ N/A
 
 ## Usage
 
-To use this Prework Study guide you can start by selecting a section. Each section will contain helpful notes about CSS, JavaScript, HTML, and Git. We then can use these sections to help us when are having a hard time figuring out how to accomplish tasks or how to proceed with sections of code or development.
+To use this webpage you can start by selecting a section of the main article. Each section will contain information about Search Engine Optamization, Online Reputation Management, and Social Media Marketing. You can move to one of these sections from the top of the page by using the nav bar and clicking on one of the titles, which will take you to the corresponding element in the page. We then can use these sections to help usunderstand these concepts and what they do for our page. The aside can also be used as a learning tool for understanding the benfeits of each of these concepts and will help 
 
 
 ## Credits
 
-N/A
+Pulled README from Pre-Work-Study-Guide in my own repositories.
+Used activity code from gitlab repository to reference proper uses of <article> <main> and <section> so that each <div> could be properly named. Also used the same git lab repository codes to look at proper spacing in lines so that the code would be easier to read and understand for the next person to come and use the code.
 
 ## License
 
