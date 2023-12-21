@@ -22,4 +22,13 @@ Used activity code from gitlab repository to reference proper uses of <article> 
 
 MIT Licesnse as mentioned in repo
 
+## Link
+
+...
+
+## Screenshot
+
+![_C__Users_ohlhj_Bootcamp_Challenge_Horiseon-Lander_Horiseon-Website_index html](https://github.com/OhlhJames/Horiseon-Website/assets/152452334/79616548-dac6-4981-9d82-e2632a442fdf)
+
+
 
