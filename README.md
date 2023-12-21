@@ -24,7 +24,7 @@ MIT Licesnse as mentioned in repo
 
 ## Link
 
-...
+[...](https://ohlhjames.github.io/Horiseon-Website/)
 
 ## Screenshot
 
